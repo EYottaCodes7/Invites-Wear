@@ -1,5 +1,5 @@
 ## project name
-Withhlding Calculator
+Invites Wear
 
 ## Overview
 
@@ -9,7 +9,7 @@ The program takes the number of tire rotations as input and calculate:
 
 ## Programming language and tech
 Java
-processing 3.4 (with java & java-scripts
+processing 3.4 (with java & java-script)
 
 ## Author
 
